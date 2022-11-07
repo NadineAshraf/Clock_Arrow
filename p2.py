@@ -35,15 +35,6 @@ while True:
 	sleep(0.1)
 	# now call function we defined above
 	clear()
-	'''for i in range(15):
-		print("\t\t\t\t\t\n",end="")
-	for i in range(8):
-		print("\t\t\t\t\t*")
-	for i in range(5):
-		print("\t\t\t\t\t",end="")
-		for j in range(5 - i):
-			print('*', end='')
-		print("")'''
 	for i in range(15):
 		print("\t\t\t\t\t\n",end="")
 	for i in range(8):
